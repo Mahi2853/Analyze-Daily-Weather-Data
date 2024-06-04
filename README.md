@@ -3,11 +3,11 @@
 
 **_Basic Requirements for the project_**
 
-1.###Requirements:
+###1.Requirements:
    - Python (>=3.6)
    - Python libraries: pandas, matplotlib, seaborn, scikit-learn
 
-2.###Dataset:
+###2.Dataset:
    - The analysis is performed on the 'weather.csv' dataset. Ensure that this CSV file is in the same directory as the Python script or provide the correct file path in the code.
 
 3. ###Running the Python Script:
